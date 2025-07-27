@@ -1,0 +1,22 @@
+/* Base Styles */
+.hobby-chapter {
+  min-height: 100vh;
+  padding: 4rem;
+  scroll-snap-align: start;
+  border-bottom: 1px solid #eee;
+}
+
+.project-teaser {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  max-width: 600px;
+  margin: 2rem auto;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Hobby-Specific Accents */
+#sports { background: #FFF6F6; }
+#anime { background: #F6F8FF; }
+#gym { background: #F6FFF8; }
+#food { background: #FFFBF6; }
