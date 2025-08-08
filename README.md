@@ -10,7 +10,7 @@
 `Python` &nbsp;|&nbsp; `Typescript` &nbsp;|&nbsp; `APIs` &nbsp;|&nbsp; `Automation` &nbsp;|&nbsp; `Machine Learning` &nbsp;|&nbsp; `Data Analysis`
 
 ## 🌟 Featured Projects
-- [![The Hub(Portfolio Website](gmanthenoxus.github.io/)
+- [The Hub(Portfolio Website)](https://gmanthenoxus.github.io/)
 
 ## 🔗 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/moses-gana-122a9a167)
